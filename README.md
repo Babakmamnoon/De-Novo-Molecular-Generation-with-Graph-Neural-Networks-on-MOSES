@@ -1,5 +1,7 @@
 # De-Novo-Molecular-Generation-with-Graph-Neural-Networks-on-MOSES
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/De-Novo-Molecular-Generation-with-Graph-Neural-Networks-on-MOSES/blob/main/De_Novo_Molecular_Generation.ipynb)
+
 ## Overview
 
 This repository contains an industry-grade de novo molecular generation pipeline built on:
